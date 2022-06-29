@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cz4rekK
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and Web Development
 - 🌱 I’m currently studying biomedical engineering
 
 <!---
